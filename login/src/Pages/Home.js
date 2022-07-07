@@ -36,7 +36,7 @@ function Home() {
         <label>Password </label>
         <input type="password" name = {pass} onChange = {changepass} placeholder = "Password" required></input>
         
-        <Link to = "/Welcome" id = "btn" Name = {name}>
+        <Link to = "/Welcome" id = "btn" name = {name}>
            <input type = "submit" id = "in">
            </input>
        </Link>

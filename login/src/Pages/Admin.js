@@ -70,12 +70,17 @@ export default function Admin() {
         </h1>
 
         <table border = "1">
-        <tr>
+          
+        <thead>
           <th>Username</th>
           <th>Password</th>
           <th>Reg-No</th>
           <th>Reg Date</th>
-        </tr>
+        </thead>
+
+        <tbody>
+
+        </tbody>
 
         </table>
       </div>
